@@ -1,0 +1,66 @@
+Banco: cassandra        Processos: 32 (32)      Maquina:1 de 1
+100%|█████████████████████████████████████████████████████████| 32000/32000 [00:32<00:00, 998.40it/s]
+Contador -> 16167
+consultas -> 54704
+tempo_decorrido -> 33.12831115722656
+Consulta por segundo -> 1651.2764487261509
+
+
+
+Banco: cassandra        Processos: 64 (64)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 64000/64000 [00:33<00:00, 1920.62it/s]
+Contador -> 32558
+consultas -> 109716
+tempo_decorrido -> 36.06111979484558
+Consulta por segundo -> 3042.50119309058
+
+
+
+Banco: cassandra        Processos: 96 (96)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 96000/96000 [00:35<00:00, 2677.23it/s]
+Contador -> 48569
+consultas -> 164574
+
+
+Banco: cassandra        Processos: 128 (128)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 128000/128000 [00:34<00:00, 3681.11it/s]
+Contador -> 64811
+consultas -> 219434
+tempo_decorrido -> 43.97005248069763
+Consulta por segundo -> 4990.533047381035
+
+
+
+Banco: cassandra        Processos: 160 (160)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 160000/160000 [00:37<00:00, 4292.78it/s]
+Contador -> 79620
+consultas -> 274095
+tempo_decorrido -> 51.53263473510742
+Consulta por segundo -> 5318.86253068424
+
+
+
+Banco: cassandra        Processos: 192 (192)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 192000/192000 [00:39<00:00, 4850.81it/s]
+Contador -> 97643
+consultas -> 329320
+tempo_decorrido -> 59.13808274269104
+Consulta por segundo -> 5568.662099393155
+
+
+
+Banco: cassandra        Processos: 224 (224)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 224000/224000 [00:37<00:00, 5986.65it/s]
+Contador -> 112378
+consultas -> 383809
+tempo_decorrido -> 67.07482767105103
+Consulta por segundo -> 5722.1019170154195
+
+
+
+Banco: cassandra        Processos: 256 (256)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 256000/256000 [00:40<00:00, 6355.27it/s]
+Contador -> 128893
+consultas -> 438815
+tempo_decorrido -> 71.24574446678162
+Consulta por segundo -> 6159.174885239607

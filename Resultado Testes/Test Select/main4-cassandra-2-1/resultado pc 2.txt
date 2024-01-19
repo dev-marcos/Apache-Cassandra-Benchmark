@@ -1,0 +1,56 @@
+Banco: cassandra        Processos: 32 (16)      Maquina:2 de 2
+Contador -> 124665
+consultas -> 81990
+tempo_decorrido -> 84.38022947311401
+Consulta por segundo -> 971.6731100633518
+
+
+Banco: cassandra        Processos: 64 (32)      Maquina:2 de 2
+Contador -> 250463
+consultas -> 163952
+tempo_decorrido -> 87.0091450214386
+Consulta por segundo -> 1884.3076777688493
+
+
+Banco: cassandra        Processos: 96 (48)      Maquina:2 de 2
+Contador -> 370967
+consultas -> 245870
+tempo_decorrido -> 90.51033163070679
+Consulta por segundo -> 2716.485461606523
+
+
+Banco: cassandra        Processos: 128 (64)     Maquina:2 de 2
+Contador -> 501269
+consultas -> 330708
+tempo_decorrido -> 140.21656370162964
+Consulta por segundo -> 2358.5515952574756
+
+
+Banco: cassandra        Processos: 160 (80)     Maquina:2 de 2
+Contador -> 618144
+consultas -> 410175
+tempo_decorrido -> 105.22305560112
+Consulta por segundo -> 3898.1475842603654
+
+
+Banco: cassandra        Processos: 192 (96)     Maquina:2 de 2
+Contador -> 749956
+consultas -> 491973
+tempo_decorrido -> 114.41528749465942
+Consulta por segundo -> 4299.88868421944
+
+
+Banco: cassandra        Processos: 224 (112)    Maquina:2 de 2
+Contador -> 872053
+consultas -> 574076
+tempo_decorrido -> 124.8214864730835
+Consulta por segundo -> 4599.1761212024485
+
+
+Banco: cassandra        Processos: 256 (128)    Maquina:2 de 2
+Contador -> 997829
+consultas -> 656166
+tempo_decorrido -> 146.27426719665527
+Consulta por segundo -> 4485.860791343646
+
+

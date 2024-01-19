@@ -1,0 +1,55 @@
+Banco: cassandra        Processos: 32 (16)      Maquina:2 de 2
+100%|█████████████████████████████████████████████████████████| 16000/16000 [00:35<00:00, 456.25it/s]
+Contador -> 8012
+consultas -> 27121
+tempo_decorrido -> 35.49545168876648
+Consulta por segundo -> 764.069724701748
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 64 (32)      Maquina:2 de 2
+100%|█████████████████████████████████████████████████████████| 32000/32000 [00:37<00:00, 863.04it/s]
+Contador -> 16474
+consultas -> 55075
+tempo_decorrido -> 38.39724946022034
+Consulta por segundo -> 1434.34753202981
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 96 (48)      Maquina:2 de 2
+100%|████████████████████████████████████████████████████████| 48000/48000 [00:37<00:00, 1294.18it/s]
+Contador -> 23904
+consultas -> 81755
+tempo_decorrido -> 39.958781480789185
+Consulta por segundo -> 2045.983310059267
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 128 (64)     Maquina:2 de 2
+100%|████████████████████████████████████████████████████████| 64000/64000 [00:39<00:00, 1633.04it/s]
+Contador -> 32330
+consultas -> 109388
+tempo_decorrido -> 42.349817752838135
+Consulta por segundo -> 2582.9627092709084
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 160 (80)     Maquina:2 de 2
+100%|████████████████████████████████████████████████████████| 80000/80000 [00:42<00:00, 1887.92it/s]
+Contador -> 39910
+consultas -> 137307
+tempo_decorrido -> 46.29180860519409
+Consulta por segundo -> 2966.118718130916
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 192 (96)     Maquina:2 de 2
+100%|████████████████████████████████████████████████████████| 96000/96000 [00:44<00:00, 2155.63it/s]
+Contador -> 48857
+consultas -> 165117
+tempo_decorrido -> 49.98912715911865
+Consulta por segundo -> 3303.058272540383
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 224 (112)    Maquina:2 de 2
+100%|██████████████████████████████████████████████████████| 112000/112000 [00:45<00:00, 2443.68it/s]
+Contador -> 55975
+consultas -> 191564
+tempo_decorrido -> 50.850029706954956
+Consulta por segundo -> 3767.2347706376863
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 256 (128)    Maquina:2 de 2
+100%|██████████████████████████████████████████████████████| 128000/128000 [00:49<00:00, 2606.25it/s]
+Contador -> 64370
+consultas -> 219330
+tempo_decorrido -> 57.1290123462677
+Consulta por segundo -> 3839.205177758146

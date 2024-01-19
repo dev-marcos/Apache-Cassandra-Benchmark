@@ -1,0 +1,78 @@
+Banco: cassandra        Processos: 32 (16)      Maquina:1 de 2
+100%|█████████████████████████████████████████████████████████| 16000/16000 [00:32<00:00, 499.17it/s]
+Contador -> 8155
+consultas -> 27583
+tempo_decorrido -> 32.22742176055908
+Consulta por segundo -> 855.8860278968059
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 64 (32)      Maquina:1 de 2
+100%|█████████████████████████████████████████████████████████| 32000/32000 [00:34<00:00, 937.17it/s]
+Contador -> 16084
+consultas -> 54641
+tempo_decorrido -> 34.64528727531433
+Consulta por segundo -> 1577.1553448463721
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 96 (48)      Maquina:1 de 2
+100%|████████████████████████████████████████████████████████| 48000/48000 [00:38<00:00, 1254.13it/s]
+Contador -> 24665
+consultas -> 82819
+tempo_decorrido -> 39.70423221588135
+Consulta por segundo -> 2085.8985397247684
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 128 (64)     Maquina:1 de 2
+100%|████████████████████████████████████████████████████████| 64000/64000 [00:40<00:00, 1582.37it/s]
+Contador -> 32481
+consultas -> 110046
+tempo_decorrido -> 42.27393078804016
+Consulta por segundo -> 2603.164596918284
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 160 (80)     Maquina:1 de 2
+100%|████████████████████████████████████████████████████████| 80000/80000 [00:42<00:00, 1890.16it/s]
+Contador -> 39710
+consultas -> 136788
+tempo_decorrido -> 45.871349811553955
+Consulta por segundo -> 2981.992039954015
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 192 (96)     Maquina:1 de 2
+  2%|█▏                                                        | 1963/96000 [00:04<03:25, 457.77it/s]Falha ao Iniciar o Cliente 24, Erro: ('Unable to connect to any servers', {'10.0.0.88:9042': ConnectionShutdown('CRC mismatch on header 854c84. Received e0000", computed 696f65.')})
+100%|████████████████████████████████████████████████████████| 96000/96000 [01:04<00:00, 1494.57it/s]
+Contador -> 48786
+consultas -> 164203
+tempo_decorrido -> 69.74065589904785
+Consulta por segundo -> 2354.480293929123
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 224 (112)    Maquina:1 de 2
+100%|██████████████████████████████████████████████████████| 112000/112000 [00:46<00:00, 2383.38it/s]
+Contador -> 56403
+consultas -> 192245
+tempo_decorrido -> 51.54610872268677
+Consulta por segundo -> 3729.5734782670033
+
+
+
+Pressione qualquer tecla para continuar. . .
+Banco: cassandra        Processos: 256 (128)    Maquina:1 de 2
+100%|██████████████████████████████████████████████████████| 128000/128000 [00:45<00:00, 2798.38it/s]
+Contador -> 64523
+consultas -> 219485
+tempo_decorrido -> 52.32238483428955
+Consulta por segundo -> 4194.858485428978
+

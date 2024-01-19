@@ -1,0 +1,54 @@
+Banco: oracle   Processos: 32 (16)      Maquina:1 de 2
+Contador -> 125893
+consultas -> 82104
+tempo_decorrido -> 13.616554260253906
+Consulta por segundo -> 6029.719298343913
+
+
+Banco: oracle   Processos: 64 (32)      Maquina:1 de 2
+Contador -> 250764
+consultas -> 163983
+tempo_decorrido -> 22.35275959968567
+Consulta por segundo -> 7336.141171683606
+
+
+Banco: oracle   Processos: 96 (48)      Maquina:1 de 2
+Contador -> 375976
+consultas -> 245877
+tempo_decorrido -> 32.44329237937927
+Consulta por segundo -> 7578.669794816437
+
+
+Banco: oracle   Processos: 128 (64)     Maquina:1 de 2
+Contador -> 500140
+consultas -> 328118
+tempo_decorrido -> 40.98603653907776
+Consulta por segundo -> 8005.604535270419
+
+
+Banco: oracle   Processos: 160 (80)     Maquina:1 de 2
+Contador -> 623738
+consultas -> 410037
+tempo_decorrido -> 49.60861897468567
+Consulta por segundo -> 8265.438717599336
+
+
+Banco: oracle   Processos: 192 (96)     Maquina:1 de 2
+Contador -> 753375
+consultas -> 494738
+tempo_decorrido -> 76.4331603050232
+Consulta por segundo -> 6472.81883969785
+
+
+Banco: oracle   Processos: 224 (112)    Maquina:1 de 2
+Contador -> 873420
+consultas -> 574153
+tempo_decorrido -> 63.623210430145264
+Consulta por segundo -> 9024.26954122958
+
+
+Banco: oracle   Processos: 256 (128)    Maquina:1 de 2
+Contador -> 993379
+consultas -> 655973
+tempo_decorrido -> 68.63500261306763
+Consulta por segundo -> 9557.412035052612

@@ -1,0 +1,70 @@
+Banco: cassandra        Processos: 32 (32)      Maquina:1 de 1
+100%|█████████████████████████████████████████████████████████| 32000/32000 [00:35<00:00, 911.00it/s]
+Contador -> 16167
+consultas -> 54704
+tempo_decorrido -> 35.9875864982605
+Consulta por segundo -> 1520.0797086696598
+
+
+
+Banco: cassandra        Processos: 64 (64)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 64000/64000 [00:39<00:00, 1617.02it/s]
+Contador -> 32558
+consultas -> 109716
+tempo_decorrido -> 41.125070095062256
+Consulta por segundo -> 2667.8617141900804
+
+
+
+Banco: cassandra        Processos: 96 (96)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 96000/96000 [00:39<00:00, 2432.25it/s]
+Contador -> 48569
+consultas -> 164574
+tempo_decorrido -> 44.31025695800781
+Consulta por segundo -> 3714.1287660769917
+
+
+
+Banco: cassandra        Processos: 128 (128)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 128000/128000 [00:39<00:00, 3253.74it/s]
+Contador -> 64811
+consultas -> 219434
+tempo_decorrido -> 47.939539432525635
+Consulta por segundo -> 4577.307220668044
+
+
+
+Banco: cassandra        Processos: 160 (160)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 160000/160000 [00:44<00:00, 3587.27it/s]
+Contador -> 79620
+consultas -> 274095
+tempo_decorrido -> 53.3761727809906
+Consulta por segundo -> 5135.156488732295
+
+
+
+Banco: cassandra        Processos: 192 (192)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 192000/192000 [00:47<00:00, 4071.63it/s]
+Contador -> 97643
+consultas -> 329320
+tempo_decorrido -> 60.6411612033844
+Consulta por segundo -> 5430.634794335379
+
+
+
+Banco: cassandra        Processos: 224 (224)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 224000/224000 [00:50<00:00, 4395.04it/s]
+Contador -> 112378
+consultas -> 383809
+tempo_decorrido -> 69.81848883628845
+Consulta por segundo -> 5497.240149381659
+
+
+
+Banco: cassandra        Processos: 256 (256)    Maquina:1 de 1
+  0%|                                                                     | 0/256000 [00:00<?, ?it/s]Falha ao Iniciar o Cliente 227, Erro: ('Unable to connect to any servers', {'10.0.0.88:9042': ConnectionShutdown('CRC mismatch on header 8556. Received 81100", computed a76314.')})
+100%|██████████████████████████████████████████████████████| 256000/256000 [01:06<00:00, 3872.41it/s]
+Contador -> 128893
+consultas -> 438815
+tempo_decorrido -> 87.80267119407654
+Consulta por segundo -> 4997.740889113223

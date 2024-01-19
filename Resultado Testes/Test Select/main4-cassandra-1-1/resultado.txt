@@ -1,0 +1,70 @@
+Banco: cassandra        Processos: 32 (32)      Maquina:1 de 1
+100%|█████████████████████████████████████████████████████████| 32000/32000 [01:33<00:00, 343.36it/s]
+Contador -> 250558
+consultas -> 164094
+tempo_decorrido -> 93.99074673652649
+Consulta por segundo -> 1745.8527110119248
+
+
+
+Banco: cassandra        Processos: 64 (64)      Maquina:1 de 1
+100%|█████████████████████████████████████████████████████████| 64000/64000 [01:35<00:00, 671.42it/s]
+Contador -> 501227
+consultas -> 327935
+tempo_decorrido -> 98.30249762535095
+Consulta por segundo -> 3335.978311047814
+
+
+
+Banco: cassandra        Processos: 96 (96)      Maquina:1 de 1
+100%|█████████████████████████████████████████████████████████| 96000/96000 [01:41<00:00, 946.39it/s]
+Contador -> 746943
+consultas -> 491747
+tempo_decorrido -> 106.85303854942322
+Consulta por segundo -> 4602.087190740486
+
+
+
+Banco: cassandra        Processos: 128 (128)    Maquina:1 de 1
+100%|███████████████████████████████████████████████████████| 128000/128000 [02:31<00:00, 845.15it/s]
+Contador -> 1001409
+consultas -> 658826
+tempo_decorrido -> 159.60148739814758
+Consulta por segundo -> 4127.943985612546
+
+
+
+Banco: cassandra        Processos: 160 (160)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 160000/160000 [01:56<00:00, 1376.39it/s]
+Contador -> 1241882
+consultas -> 820212
+tempo_decorrido -> 125.1670925617218
+Consulta por segundo -> 6552.936424528204
+
+
+
+Banco: cassandra        Processos: 192 (192)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 192000/192000 [02:50<00:00, 1125.81it/s]
+Contador -> 1503330
+consultas -> 986711
+tempo_decorrido -> 181.66395831108093
+Consulta por segundo -> 5431.517672373727
+
+
+
+Banco: cassandra        Processos: 224 (224)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 224000/224000 [02:00<00:00, 1865.60it/s]
+Contador -> 1745473
+consultas -> 1148229
+tempo_decorrido -> 146.67458248138428
+Consulta por segundo -> 7828.411580075447
+
+
+
+Banco: cassandra        Processos: 256 (256)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 256000/256000 [02:09<00:00, 1971.08it/s]
+Contador -> 1991205
+consultas -> 1312139
+tempo_decorrido -> 163.343980550766
+Consulta por segundo -> 8032.9804353714635
+
