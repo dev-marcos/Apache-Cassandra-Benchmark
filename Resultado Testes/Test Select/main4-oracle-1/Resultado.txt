@@ -1,0 +1,69 @@
+Banco: oracle   Processos: 32 (32)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 32000/32000 [00:12<00:00, 2631.78it/s]
+Contador -> 250558
+consultas -> 164094
+tempo_decorrido -> 12.622232437133789
+Consulta por segundo -> 13000.394408618724
+
+
+
+Banco: oracle   Processos: 64 (64)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 64000/64000 [00:19<00:00, 3291.65it/s]
+Contador -> 501228
+consultas -> 327935
+tempo_decorrido -> 21.835926294326782
+Consulta por segundo -> 15018.140086193695
+
+
+
+Banco: oracle   Processos: 96 (96)      Maquina:1 de 1
+100%|████████████████████████████████████████████████████████| 96000/96000 [00:26<00:00, 3619.78it/s]
+Contador -> 746943
+consultas -> 491747
+tempo_decorrido -> 31.53704810142517
+Consulta por segundo -> 15592.676854806134
+
+
+
+Banco: oracle   Processos: 128 (128)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 128000/128000 [00:35<00:00, 3601.78it/s]
+Contador -> 1001409
+consultas -> 658826
+tempo_decorrido -> 42.97356629371643
+Consulta por segundo -> 15330.959397156972
+
+
+
+Banco: oracle   Processos: 160 (160)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 160000/160000 [00:41<00:00, 3857.30it/s]
+Contador -> 1241882
+consultas -> 820212
+tempo_decorrido -> 51.44543170928955
+Consulta por segundo -> 15943.339821403297
+
+
+
+Banco: oracle   Processos: 192 (192)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 192000/192000 [00:50<00:00, 3777.46it/s]
+Contador -> 1503332
+consultas -> 986711
+tempo_decorrido -> 62.872602462768555
+Consulta por segundo -> 15693.815133297583
+
+
+
+Banco: oracle   Processos: 224 (224)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 224000/224000 [00:49<00:00, 4534.24it/s]
+Contador -> 1745473
+consultas -> 1148229
+tempo_decorrido -> 66.0091781616211
+Consulta por segundo -> 17394.990090447765
+
+
+
+Banco: oracle   Processos: 256 (256)    Maquina:1 de 1
+100%|██████████████████████████████████████████████████████| 256000/256000 [01:02<00:00, 4111.19it/s]
+Contador -> 1991208
+consultas -> 1312139
+tempo_decorrido -> 81.61532831192017
+Consulta por segundo -> 16077.114766790175
